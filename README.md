@@ -1,3 +1,2 @@
-# React + Vite
+# Internet Shop Clone
 
-Shopping cart.
